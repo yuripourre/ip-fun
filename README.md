@@ -1,4 +1,4 @@
 ip-fun
 ======
 
-An Application to help children to remember IP Addresses temporarily
+An Application to help children (or anyone) to remember IP Addresses easily.
